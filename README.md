@@ -8,7 +8,7 @@ APPARATUS:
 
 S.No	Name of the Apparatus	Range	Quantity
 1	Zener Diode (IN 4735A)		1
-2	Resistors	1KΩ, 10KΩ	1
+2+	Resistors	1KΩ, 10KΩ	1
 3	Regulated Power Supply	(0-30)V DC	1
 4	Bread Board		1
 5	Digital Ammeter	(0-200)mA	1
@@ -29,9 +29,17 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
+REGULATION CHARACTERISTICS OUTPUT:
+![alt text](<Screenshot 2026-03-18 185632.png>)
 
-V-I & REGULATION CHARACTERISTICS:
+![alt text](<Screenshot 2026-03-18 185654.png>)
+
+![alt text](<Screenshot 2026-03-18 184936.png>)
+![alt text](<Screenshot 2026-03-18 185001.png>)
+![alt text](<Screenshot 2026-03-18 185012.png>)
+![alt text](<Screenshot 2026-03-18 185038.png>)
+![alt text](<Screenshot 2026-03-18 185052.png>)
+![alt text](<Screenshot 2026-03-18 185101.png>)
 
 PRECAUTIONS:
 
